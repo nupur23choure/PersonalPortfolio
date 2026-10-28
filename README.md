@@ -25,7 +25,7 @@ A modern and responsive landing page built with HTML and CSS and basic Javascrip
 ![Project Section](images/project_section.png)
 
 ### Mobile View
-<img src="images/mobile_view.png" alt="Mobile View" width="300">
+<img src="images/mobile_view.png" alt="mobile_view.png" width="300">
 
 ## ▶️ How to Run
 

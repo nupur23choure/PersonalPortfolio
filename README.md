@@ -19,7 +19,7 @@ A modern and responsive landing page built with HTML and CSS and basic Javascrip
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](images/landingpage.png)
+![Landing Page](screenshot/landingpage.png)
 
 ### Project Section
 ![Project Section](images/project_section.png)
